@@ -1,0 +1,4 @@
+- group:
+  - id: tanzu-buildpacks/python-lite
+    optional: true
+  - id: tanzu-buildpacks/web-servers-lite
