@@ -32,7 +32,7 @@ function CreateCustomerProfile() {
 
     return (
         <>
-            <PageHeader text={"Create Custom Profile"}/>
+            <PageHeader text={"Create Customer Profile 1"}/>
             <CreateCustomerProfileForm onSubmit={handleSubmit} error={error} />
         </>
     )
